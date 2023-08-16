@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+
+.mainHeader {
+  padding: 10px;
+  text-align: center;
+}
+
+.getBtn {
+  width: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.loadingDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+}
+
+.addCountryText {
+  text-align: center;
+}
+
+.selectWrapper {
+  padding: 5%;
+}
+
+.submitBtn {
+  width: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}
