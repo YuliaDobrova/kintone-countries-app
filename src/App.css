@@ -8,6 +8,7 @@
 .mainHeader {
   padding: 10px;
   text-align: center;
+  color: #ffffff;
 }
 
 .getBtn {
@@ -26,6 +27,7 @@
 
 .addCountryText {
   text-align: center;
+  color: #ffffff;
 }
 
 .selectWrapper {
