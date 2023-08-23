@@ -48,7 +48,10 @@ function App() {
 
   return (
     <div className="main">
-      <h2 className="mainHeader">Kintone Database App</h2>
+      <h2 className="mainHeader">
+        Kintone
+        <br /> Database App
+      </h2>
       {loading ? (
         <div className="loadingDiv">
           <LoadingSpinner />
